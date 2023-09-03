@@ -173,6 +173,7 @@ in a configuration file - default: `webmon.conf`.
 Save a list of websites in the configuration file
 
 Usage:
+  save
 ```
 
 **Examples:**
